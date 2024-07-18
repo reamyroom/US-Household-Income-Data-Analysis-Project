@@ -8,5 +8,5 @@ The dataset focuses on US household income data, providing comprehensive informa
 
 ## Acknowledgements
 
-All credit goes to Alex Freberg, our esteemed teacher, for his invaluable teachings and contributions to the field of data analytics. 
+All credit goes to Alex Freberg for his invaluable teachings and contributions to the field of data analytics. 
 Special thanks to Eric for providing the initial challenge and the platform to learn and grow together.
